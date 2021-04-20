@@ -3,7 +3,7 @@
 // @namespace    https://stackoverflow.com/
 // @version      0.1
 // @description  替换掉Google CDN，避免卡顿!
-// @author       akane
+// @author       unkoe
 // @match        https://*.stackoverflow.com
 // @match        https://*.stackoverflow.com/*
 // @grant        none
